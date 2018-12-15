@@ -1,4 +1,4 @@
 *.csv
 *.pkl
-*.txt
+.txt
 languages/.DS_Store
